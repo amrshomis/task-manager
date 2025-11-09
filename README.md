@@ -30,13 +30,15 @@ team_task_manager/
 │   ├── settings.py
 │   ├── urls.py
 │
-└── tasks/
-    ├── models.py
-    ├── views.py
-    ├── templates/
-    │   ├── home.html
-    │   ├── add_task.html
-    │   └── edit_task.html
-    └── static/
-        ├── css/
-        └── js/
+├── tasks/
+│    ├── models.py
+│    ├── views.py
+│    
+├── templates/
+│    ├── home.html
+│    ├── add_task.html
+│    └── edit_task.html
+│
+└── static/
+         ├── css/
+         └── js/
